@@ -1,1 +1,1 @@
-[qbot](../README.md)的nodejs实现
+[qbot](../)的nodejs实现
